@@ -2,4 +2,4 @@
 
 This page describes the Timeline of Dr. APJ Abdul Kalam
 
-![kalam with Mandela](kalam with Mandela.png)
+![kalam with Mandela](kalam_with_mandela.png)
